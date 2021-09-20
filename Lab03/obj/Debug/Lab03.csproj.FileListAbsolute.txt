@@ -1,0 +1,11 @@
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\bin\Debug\Lab03.exe.config
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\bin\Debug\Lab03.exe
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\bin\Debug\Lab03.pdb
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.exe
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.pdb
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.Persona.resources
