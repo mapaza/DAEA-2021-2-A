@@ -9,3 +9,4 @@ E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreComp
 E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.exe
 E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.pdb
 E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.Persona.resources
+E:\Mariam\DAE\Proyectos\Laboratorios\Lab03\Lab03\obj\Debug\Lab03.Cursos.resources
