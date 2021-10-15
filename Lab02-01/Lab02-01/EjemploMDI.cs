@@ -103,5 +103,10 @@ namespace Lab02_01
                 childForm.Close();
             }
         }
+
+        private void EjemploMDI_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
