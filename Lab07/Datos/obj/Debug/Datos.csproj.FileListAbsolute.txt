@@ -1,6 +1,0 @@
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\bin\Debug\Datos.dll
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\bin\Debug\Datos.pdb
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.dll
-E:\Mariam\DAE\Repositorio\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.pdb
