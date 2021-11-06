@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.dll
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.pdb
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.pdb
