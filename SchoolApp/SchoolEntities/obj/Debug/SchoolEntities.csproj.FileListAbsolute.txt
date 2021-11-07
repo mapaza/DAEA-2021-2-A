@@ -1,6 +1,0 @@
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.dll
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.pdb
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.dll
-C:\Users\User\source\repos\Nuevo\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.pdb
