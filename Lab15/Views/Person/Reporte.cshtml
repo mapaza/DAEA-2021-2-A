@@ -1,0 +1,50 @@
+﻿@using ReportViewerForMvc;
+@model Lab15.Models.Person
+@{
+    ViewBag.Title = "Reporte";
+}
+
+<nav style="background-color: #A3F7BF; border-radius: 20px; margin-bottom: 10px; " class="navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand fw-bolder" style="color: #222831;">&nbsp;&nbsp;&nbsp;Reporte de Personas</a>
+    </div>
+</nav>
+
+@using (Html.BeginForm("Reporte", "Person", FormMethod.Post))
+{
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <form class="d-flex">
+                <div class="input-group">
+                    <span class="input-group-text" id="basic-addon1">Nombre del Empleado:  &nbsp;&nbsp;&nbsp;</span>
+                    @Html.TextBox("FirstName")
+                    <input type="submit" value="Buscar" class="btn btn-outline-success" />
+                </div>
+            </form>
+        </div>
+    </nav>
+
+}
+@if (ViewBag.ReportViewer != null)
+{
+<div class="card" style="margin:15px;">
+    <div class="card-header">
+        Reporte Generado
+    </div>
+    <div class="card-body">
+        @Html.ReportViewer(ViewBag.ReportViewer as Microsoft.Reporting.WebForms.ReportViewer)
+    </div>
+</div>
+    
+}
+<style>
+    iframe {
+        border-width: 0;
+        width: 90%;
+        height: 1250px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-top: 30px;
+        border-color: gray;
+    }
+</style>

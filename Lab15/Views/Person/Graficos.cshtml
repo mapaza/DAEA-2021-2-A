@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Graficos";
+}
+
+<nav style="background-color: #A3F7BF; border-radius: 20px; margin-bottom: 10px; " class="navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand fw-bolder" style="color: #222831;">&nbsp;&nbsp;&nbsp;Gráficos de Cursos</a>
+    </div>
+</nav>
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+        <div class="card rounded-3">
+            <img src="@Url.Action("GraficoColumnas")" />
+            <div class="card-body">
+                <h5 class="card-title">Gráfico de Columnas</h5>
+                
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card rounded-3">
+            <img src="@Url.Action("GraficoBarras")" />
+            <div class="card-body">
+                <h5 class="card-title">Gráfico de Barras</h5>
+                
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card rounded-3">
+            <img src="@Url.Action("GraficoTarta")" />
+            <div class="card-body">
+                <h5 class="card-title">Gráfico de Tarta</h5>
+                
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card rounded-3">
+            <img src="@Url.Action("GraficoRadar")" />
+            <div class="card-body">
+                <h5 class="card-title">Gráfico Radar</h5>
+                
+            </div>
+        </div>
+    </div>
+</div>
+

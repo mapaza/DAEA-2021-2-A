@@ -1,0 +1,20 @@
+﻿@model List<Lab15.Models.Person>
+@{
+    ViewBag.Title = "Listar";
+    var grid = new WebGrid(source: Model, columnNames: new[]
+    {
+        "PersonID","FirstName","LastName","EnrollmentDate","HireDate"
+    });
+}
+<nav style="background-color: #A3F7BF; border-radius: 20px; margin-bottom: 10px; " class="navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand fw-bolder" style="color: #222831;">&nbsp;&nbsp;&nbsp;Lista de Estudiantes</a>
+        <form class="d-flex">
+            @Html.ActionLink("Reporte", "Reporte", null, new { @class = "btn btn-dark" })
+            &nbsp;&nbsp;
+            @Html.ActionLink("Graficos", "Graficos", null, new { @class = "btn btn-light" })
+        </form>
+    </div>
+</nav>
+
+@grid.GetHtml(tableStyle: "table table-striped table-hover")
